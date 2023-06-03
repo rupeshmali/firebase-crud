@@ -1,0 +1,64 @@
+.project-title {
+  background-color: dodgerblue;
+  color: white;
+  padding: 10px;
+  padding-left: 30px;
+  margin-bottom: 50px;
+}
+
+.app {
+  display: flex;
+  gap: 30px;
+}
+
+.btn {
+  padding: 10px 20px;
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+}
+
+.add-update-delete-div {
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 30px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  background-color: white;
+  max-width: 200px;
+  min-width: 200px;
+}
+
+.fetched-todos-div {
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 30px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  background-color: white;
+  max-width: 200px;
+  min-width: 200px;
+}
+.your-todos-label{
+  padding: 0px;
+}
+.update-delete-wrapper {
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 30px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  background-color: white;
+  max-width: 200px;
+  min-width: 200px;
+}
+
+.COLOR-BLUE {
+  color: blue;
+}
